@@ -76,5 +76,5 @@ Open a pull request on GitHub.
 This project is licensed under the MIT License.
 
 ## Contact
-For any inquiries, please reach out at [your-email@example.com].
+For any inquiries, please reach out at [tajunissak@gmail.com].
 
